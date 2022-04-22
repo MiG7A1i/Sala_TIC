@@ -1,4 +1,5 @@
 Algoritmo Area_Rectangulo
+	Escribir "edicion de una rama"
 	Escribir "Calcula el area de un rectangulo..."
 	Escribir "Introduzco la base en cm.."
 	Leer base
