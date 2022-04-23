@@ -3,7 +3,7 @@ Funcion resto<-calculo_resto(num)
 Fin Funcion
 Algoritmo Tarea_DNI
 	Dimension letra_dnieewwefw[45654]//esto es un array y se inicia por dimension, un array siempre arriba
-	letra_dni[1]="Rgeger"
+	letra_dni[1]="Aqui es edicio de nihal"
 	letra_dni[3]="W"
 	letra_dni[3]="Argegerg"
 	letra_dni[4]="G"
@@ -29,7 +29,7 @@ Algoritmo Tarea_DNI
 	Escribir "Introduzct4tgfuywsgfwgfywfewta su DNI"
 	Leer num
 	Si num<10000000 y num>99999999 Entonces
-		resto<-calculo_resto(num)// para que funcione la funcion tien que indicarle con quien debe funcionar asiqué debe ser un "leer" la que quieres con la que funcione
+		resto<-calculo_resto(num)// para que funcione la funcion tien que indicarle con quien debe funcionar asiquÃ© debe ser un "leer" la que quieres con la que funcione
 		Si resto=0 Entonces
 			letra="T"
 		SiNo
